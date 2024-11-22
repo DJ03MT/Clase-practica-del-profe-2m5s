@@ -1,0 +1,7 @@
+C:\Users\82K200XXUS\source\repos\ADO_Northwind\ADO_Northwind\bin\Debug\ADO_Northwind.exe.config
+C:\Users\82K200XXUS\source\repos\ADO_Northwind\ADO_Northwind\bin\Debug\ADO_Northwind.exe
+C:\Users\82K200XXUS\source\repos\ADO_Northwind\ADO_Northwind\bin\Debug\ADO_Northwind.pdb
+C:\Users\82K200XXUS\source\repos\ADO_Northwind\ADO_Northwind\obj\Debug\ADO_Northwind.csproj.AssemblyReference.cache
+C:\Users\82K200XXUS\source\repos\ADO_Northwind\ADO_Northwind\obj\Debug\ADO_Northwind.csproj.CoreCompileInputs.cache
+C:\Users\82K200XXUS\source\repos\ADO_Northwind\ADO_Northwind\obj\Debug\ADO_Northwind.exe
+C:\Users\82K200XXUS\source\repos\ADO_Northwind\ADO_Northwind\obj\Debug\ADO_Northwind.pdb
